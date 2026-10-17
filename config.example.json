@@ -1,0 +1,8 @@
+{
+  "dart_api_key": "여기에 OpenDART 인증키 40자리",
+  "telegram_bot_token": "여기에 텔레그램 봇 토큰",
+  "telegram_chat_id": "",
+  "companies": ["삼성전자", "SK하이닉스", "리브스메드"],
+  "interval_sec": 60,
+  "night_interval_sec": 300
+}
